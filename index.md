@@ -1,5 +1,6 @@
 ---
 title: My shiny website
+layout: default
 ---
 
 ## hello internet
